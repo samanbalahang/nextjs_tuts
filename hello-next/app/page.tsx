@@ -10,7 +10,5 @@ export default function Home() {
             </p>
             <Image src="/next.svg" alt="some thing" width={100} height={20} />
         </main>
-    );
-
-      
+    );    
 }
